@@ -22,7 +22,7 @@ Java, MySQL, Hibernate, HTTP, Servlets, Maven, Flyway, Swagger.
 
 Скриншоты:
 
-![img_3.png] (Swagger.png) 
+![Swagger] ([Swagger.png](https://github.com/DaniilRadkovich/Module_2_4/blob/fe8d314481193783cf2b1c61153779590ded36ed/img_3.png)) 
 ------------------------------------------------------------------------------------------------------------------------
 ![img_4.png](Postman.png)
 ------------------------------------------------------------------------------------------------------------------------
